@@ -2,9 +2,9 @@
 <class-diagram version="1.1.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
   generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
   router="FAN">  
-  <class id="1" language="java" name="readingAss1_97_java_AbdelrhmanMoustafa.Account_Ex" 
-    project="readingAss1_97_java_AbdelrhmanMoustafa" 
-    file="/readingAss1_97_java_AbdelrhmanMoustafa/src/readingAss1_97_java_AbdelrhmanMoustafa/Account_Ex.java" 
+  <class id="1" language="java" name="readingAss1_97_java_ParthRana.Account_Ex" 
+    project="readingAss1_97_java_ParthRana" 
+    file="/readingAss1_97_java_ParthRana/src/readingAss1_97_java_ParthRana/Account_Ex.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="136" y="286"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -13,9 +13,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="readingAss1_97_java_AbdelrhmanMoustafa.Account" 
-    project="readingAss1_97_java_AbdelrhmanMoustafa" 
-    file="/readingAss1_97_java_AbdelrhmanMoustafa/src/readingAss1_97_java_AbdelrhmanMoustafa/Account.java" 
+  <class id="2" language="java" name="readingAss1_97_java_ParthRana.Account" 
+    project="readingAss1_97_java_ParthRana" 
+    file="/readingAss1_97_java_AbdelrhmanMoustafa/src/readingAss1_97_java_ParthRana/Account.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="413" y="290"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
